@@ -1,0 +1,7 @@
+# Ignore everything by default
+*
+
+# Allow only these specific files
+!run_model.ipynb
+!README.md
+!.gitignore
